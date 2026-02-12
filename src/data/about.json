@@ -1,0 +1,14 @@
+{
+  "info": [
+    { "label": "Name", "value": "Kenil Finaviya" },
+    { "label": "Profile", "value": "Web developer" },
+    { "label": "Email", "value": "finaviyakenil@gmail.com" },
+    { "label": "Phone", "value": "(+91) 9099946540" }
+  ],
+  "paragraphs": [
+    "I am a dedicated and highly motivated Web Developer with a strong passion for building dynamic and user-friendly web applications. Over the past few years, I have gained experience in using cutting-edge frontend technologies like React, HTML, CSS, and JavaScript to create responsive and interactive websites.",
+    "I am committed to writing clean, maintainable, and scalable code, and I place a high priority on optimizing performance to enhance the user experience. Collaboration is at the heart of my development process—I enjoy working alongside designers, developers, and product managers to turn ideas into fully functioning web solutions.",
+    "Though I am a fresher, my previous project experience during my studies has given me insight into project lifecycle management, from conceptualization to deployment. I understand the importance of clear communication, meeting deadlines, and delivering quality results.",
+    "My goal is to provide clients and users with the best possible web experiences by aligning technical expertise with their unique goals. I am committed to building lasting partnerships based on transparency, trust, and excellence in execution."
+  ]
+}

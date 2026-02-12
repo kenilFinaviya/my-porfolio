@@ -1,0 +1,17 @@
+[
+  {
+    "iconId": "monitor",
+    "title": "Web Design",
+    "description": "Proficient in creating visually appealing and user-friendly websites with a strong focus on user experience (UX) and responsive design."
+  },
+  {
+    "iconId": "code",
+    "title": "Web Development",
+    "description": "Proficient web developer with expertise in front-end and back-end development. Skilled in building dynamic, interactive, and responsive websites and web applications using a variety of programming languages, frameworks, and technologies."
+  },
+  {
+    "iconId": "mobile",
+    "title": "Responsive Design",
+    "description": "Experienced in creating visually appealing and user-friendly websites that adapt seamlessly to various screen sizes and devices, providing an optimal user experience."
+  }
+]
