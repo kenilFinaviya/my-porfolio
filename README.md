@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kenil Finaviya – React Portfolio
 
 A responsive, animated portfolio built with **React**, **Vite**, and **Framer Motion**.
@@ -37,3 +38,6 @@ npm run preview
 
 - **Colors**: Edit CSS variables in `src/index.css` (`:root`).
 - **Content**: Update copy and links in each component and in `public/`.
+=======
+"# my-porfolio" 
+>>>>>>> c3788b3958f48abab8e13a01666a4b75b4a0d0b8
