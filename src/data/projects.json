@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Digital store",
+    "category": "Front-end Developing",
+    "image": "/img/ss.png"
+  },
+  {
+    "id": 2,
+    "title": "Admin Panel",
+    "category": "Back-end Developing",
+    "image": "/img/ss1.png"
+  }
+]

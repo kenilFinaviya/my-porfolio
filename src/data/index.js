@@ -1,0 +1,6 @@
+export { default as skills } from './skills.json'
+export { default as projects } from './projects.json'
+export { default as services } from './services.json'
+export { default as about } from './about.json'
+export { default as socials } from './socials.json'
+export { default as navLinks } from './navLinks.json'
